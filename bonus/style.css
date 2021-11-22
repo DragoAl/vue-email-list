@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    color: #08314a;
+}
+
+#email-container {
+    width: 30%;
+    margin: 50px auto;
+    background-color: #08314a;
+    text-align: center;
+}
+
+.email {
+    padding: 10px 0;
+    font-size: 18px;
+    font-style: italic;
+    color: white;
+}
